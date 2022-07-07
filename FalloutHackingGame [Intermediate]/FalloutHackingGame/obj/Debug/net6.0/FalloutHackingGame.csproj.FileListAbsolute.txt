@@ -1,0 +1,16 @@
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\bin\Debug\net6.0\FalloutHackingGame.exe
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\bin\Debug\net6.0\FalloutHackingGame.deps.json
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\bin\Debug\net6.0\FalloutHackingGame.runtimeconfig.json
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\bin\Debug\net6.0\FalloutHackingGame.dll
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\bin\Debug\net6.0\ref\FalloutHackingGame.dll
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\bin\Debug\net6.0\FalloutHackingGame.pdb
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\obj\Debug\net6.0\FalloutHackingGame.csproj.AssemblyReference.cache
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\obj\Debug\net6.0\FalloutHackingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\obj\Debug\net6.0\FalloutHackingGame.AssemblyInfoInputs.cache
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\obj\Debug\net6.0\FalloutHackingGame.AssemblyInfo.cs
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\obj\Debug\net6.0\FalloutHackingGame.csproj.CoreCompileInputs.cache
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\obj\Debug\net6.0\FalloutHackingGame.dll
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\obj\Debug\net6.0\ref\FalloutHackingGame.dll
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\obj\Debug\net6.0\FalloutHackingGame.pdb
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\obj\Debug\net6.0\FalloutHackingGame.genruntimeconfig.cache
+C:\Users\odermattm\source\repos\practice\FalloutHackingGame\FalloutHackingGame\bin\Debug\net6.0\enable1.txt
