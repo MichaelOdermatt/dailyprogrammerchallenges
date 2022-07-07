@@ -1,0 +1,15 @@
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\bin\Debug\net6.0\PartitionCount.exe
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\bin\Debug\net6.0\PartitionCount.deps.json
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\bin\Debug\net6.0\PartitionCount.runtimeconfig.json
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\bin\Debug\net6.0\PartitionCount.dll
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\bin\Debug\net6.0\ref\PartitionCount.dll
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\bin\Debug\net6.0\PartitionCount.pdb
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\obj\Debug\net6.0\PartitionCount.csproj.AssemblyReference.cache
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\obj\Debug\net6.0\PartitionCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\obj\Debug\net6.0\PartitionCount.AssemblyInfoInputs.cache
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\obj\Debug\net6.0\PartitionCount.AssemblyInfo.cs
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\obj\Debug\net6.0\PartitionCount.csproj.CoreCompileInputs.cache
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\obj\Debug\net6.0\PartitionCount.dll
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\obj\Debug\net6.0\ref\PartitionCount.dll
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\obj\Debug\net6.0\PartitionCount.pdb
+C:\Users\odermattm\source\repos\practice\PartitionCount\PartitionCount\obj\Debug\net6.0\PartitionCount.genruntimeconfig.cache
