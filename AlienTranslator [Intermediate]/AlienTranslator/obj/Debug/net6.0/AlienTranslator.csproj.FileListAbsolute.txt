@@ -1,0 +1,15 @@
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\bin\Debug\net6.0\AlienTranslator.exe
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\bin\Debug\net6.0\AlienTranslator.deps.json
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\bin\Debug\net6.0\AlienTranslator.runtimeconfig.json
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\bin\Debug\net6.0\AlienTranslator.dll
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\bin\Debug\net6.0\ref\AlienTranslator.dll
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\bin\Debug\net6.0\AlienTranslator.pdb
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\obj\Debug\net6.0\AlienTranslator.csproj.AssemblyReference.cache
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\obj\Debug\net6.0\AlienTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\obj\Debug\net6.0\AlienTranslator.AssemblyInfoInputs.cache
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\obj\Debug\net6.0\AlienTranslator.AssemblyInfo.cs
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\obj\Debug\net6.0\AlienTranslator.csproj.CoreCompileInputs.cache
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\obj\Debug\net6.0\AlienTranslator.dll
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\obj\Debug\net6.0\ref\AlienTranslator.dll
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\obj\Debug\net6.0\AlienTranslator.pdb
+C:\Users\odermattm\source\repos\practice\AlienTranslator\AlienTranslator\obj\Debug\net6.0\AlienTranslator.genruntimeconfig.cache
